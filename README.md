@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a simple BMI calculator app developed in Kotlin using Android Studio. This app is done to complete an assignment for Mobile Programming course. 
+This repository contains a simple BMI calculator app developed in Kotlin using Android Studio. This app is done to complete an assignment for Mobile Programming with Native Technologies course. 
 
 ## How to Use
 
